@@ -1,16 +1,16 @@
 {
-  "name": "mernstack",
+  "name": "findhospital",
   "version": "1.0.0",
   "description": "mernstack application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "server":"nodemon server.js"
+    "start": "node index.js",
+    "server": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "pracasj"
+    "url": "https://github.com/Pravash2/hospital_Backend.git"
   },
   "author": "prava",
   "license": "ISC",

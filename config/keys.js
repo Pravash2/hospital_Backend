@@ -1,3 +1,3 @@
 module.exports = {
-	mongoURI: "mongodb://Pravash2:prava9861@ds137605.mlab.com:37605/mern_stack"
+	mongoURI: "mongodb://pravash2:prava9861@ds343985.mlab.com:43985/findhospital"
 };
